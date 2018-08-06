@@ -1,2 +1,2 @@
 # GitClass
-Aula de Laboratório de Desenvolvimento de Sistemas IV 
+Aula de Laboratório de Desenvolvimento de Banco de Dados IV 
